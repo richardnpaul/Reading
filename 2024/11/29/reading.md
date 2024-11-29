@@ -1,0 +1,8 @@
+- https://www.unilad.com/film-and-tv/news/captain-america-fight-scene-without-visual-effects-video-397426-20241127
+- https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/
+- https://www.forbes.com/sites/daveywinder/2024/11/23/new-edge-browser-password-update-what-microsoft-users-need-to-know/
+- https://www.theregister.com/2024/11/27/raspberry_pi_compute_module_5/
+- https://interestingengineering.com/innovation/high-power-electric-motors-using-copper
+- https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/amp/
+- https://arstechnica.com/space/2024/06/rocket-report-china-tests-reusable-rocket-tech-spacex-booster-flies-22nd-time/
+- https://www.notebookcheck.net/Vuzix-Z100-Smart-Glasses-now-available-for-consumers-worldwide.924328.0.html
