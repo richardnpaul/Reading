@@ -1,0 +1,5 @@
+- https://www.eurogamer.net/digitalfoundry-2024-this-4tb-crucial-p3-plus-has-plummeted-in-price-for-black-friday
+- https://pressgazette.co.uk/platforms/bluesky-x-traffic-guardian-boston-globe-news/
+- https://www.bristolpost.co.uk/news/uk-world-news/tui-boeing-737-serious-incident-9757188
+- https://en.econostrum.info/uk-braces-for-snowstorm-one-part-england-risk/
+- https://www.unilad.com/technology/news/lithium-usa-china-economy-white-gold-615902-20241126

@@ -1,0 +1,1 @@
+- https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-big-surprise
