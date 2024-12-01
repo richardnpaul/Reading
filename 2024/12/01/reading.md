@@ -3,3 +3,9 @@
 - https://www.bristolpost.co.uk/news/uk-world-news/tui-boeing-737-serious-incident-9757188
 - https://en.econostrum.info/uk-braces-for-snowstorm-one-part-england-risk/
 - https://www.unilad.com/technology/news/lithium-usa-china-economy-white-gold-615902-20241126
+- https://www.howtogeek.com/advantages-of-wsl-vs-dual-booting-for-running-windows-and-linux/
+- https://www.phoronix.com/news/Linux-Zen1-Zen2-Slow-Boot-ucode
+- https://armyrecognition.com/focus-analysis-conflicts/army/conflicts-in-the-world/russia-ukraine-war-2022/exclusive-ukrainian-f-16-fighter-jets-demonstrate-superior-capability-by-intercepting-7-russian-cruise-missiles
+- https://amp.theguardian.com/politics/2024/dec/01/home-office-immigration-evisas-right-to-live-work-uk
+- https://9to5linux.com/nixos-24-11-released-with-gnome-47-and-kde-plasma-6-2-pipewire-by-default/
+- https://www.infoq.com/news/2024/11/terraform-1-10-ephemeral-values/ (edited)
