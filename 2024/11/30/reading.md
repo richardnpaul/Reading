@@ -1,1 +1,2 @@
 - https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-big-surprise
+- https://www.sciencealert.com/man-keeps-a-rock-for-years-hoping-its-gold-it-turns-out-to-be-far-more-valuable

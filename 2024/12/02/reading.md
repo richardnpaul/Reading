@@ -1,0 +1,17 @@
+- https://www.forbes.com/sites/zakdoffman/2024/11/28/fbi-warns-chrome-safari-and-edge-users-do-not-buy-from-these-sellers/
+- https://arstechnica.com/space/2024/11/rocket-report-a-good-week-for-blue-origin-italy-wants-its-own-launch-capability/
+- https://wccftech.com/amd-finally-finds-fixes-for-improving-inter-core-latency-on-strix-point-apus/amp/
+- https://videocardz.com/newz/intel-arc-b580-b570-and-amd-navi-44-may-reportedly-win-with-rtx-4060-ti-in-synthetic-tests
+- https://www.engadget.com/apps/bluesky-implements-a-more-aggressive-impersonation-policy-130047163.html
+- https://phys.org/news/2024-11-cosmological-dark-production-pre-big.amp
+- https://videocardz.com/pixel/intel-confirms-arc-battlemage-unveil-on-december-3rd
+- https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/
+- https://amp.theguardian.com/technology/2024/dec/02/australia-is-connected-to-the-world-by-cables-no-thicker-than-a-garden-hose-and-at-risk-from-sharks-accidents-and-sabotage
+- https://wccftech.com/amd-radeon-rx-8800-xt-rdna-4-gpu-faster-rt-performance-7900-xtx-on-par-rtx-4080-raster/amp/
+- https://www.phoronix.com/news/Steam-Survey-November-2024
+- https://www.theregister.com/AMP/2024/12/02/pat_gelsinger_retires_from_intel/
+- https://mil.in.ua/en/news/rebels-in-syria-seize-air-defense-systems/
+- https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/
+- https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/
+- https://arstechnica.com/space/2024/12/you-can-add-another-new-rocket-to-chinas-growing-stable-of-launch-vehicles/
+- https://arstechnica.com/gadgets/2024/12/intel-ceo-pat-gelsinger-steps-down-after-terrible-no-good-very-bad-year/ (edited)
