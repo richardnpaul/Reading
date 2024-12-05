@@ -1,0 +1,12 @@
+- https://www.techradar.com/pro/security/avast-security-tools-hijacked-in-order-to-crack-antivirus-protection
+- https://arstechnica.com/tech-policy/2024/12/judge-again-rejects-the-elon-musk-tesla-pay-plan-now-valued-at-101-billion/
+- https://www.theregister.com/AMP/2024/11/29/inc_ransom_alder_hey_childrens_hospital/
+- https://amp.theguardian.com/technology/2024/dec/03/uk-underestimates-threat-of-cyber-attacks-from-hostile-states-and-gangs-says-security-chief
+- https://www.theregister.com/AMP/2024/12/02/bluesky_growing_problems/
+- https://www.theregister.com/AMP/2024/11/29/zabbix_urges_upgrades_after_critical/
+- https://www.techradar.com/pro/security/huge-data-breach-exposes-over-600-000-records-including-background-checks-vehicle-and-property-records
+- https://www.theregister.com/AMP/2024/11/29/ofcom_online_nation/
+- https://www.pcgamer.com/games/fps/riot-is-flexing-its-anticheat-vanguard-by-placing-a-bounty-of-up-to-usd100-000-for-anyone-brilliant-enough-to-find-and-report-gaps-in-the-system/
+- https://wccftech.com/intels-celestial-druid-desktop-gpu-lineups-are-very-much-alive-team-blue-to-focus-on-mobile-gpu-scaliability-in-the-future/amp/
+- https://www.forbes.com/sites/daveywinder/2024/12/03/record-breaking-2-million-bounty-offered-to-cryptocom-hackers/
+- https://tftcentral.co.uk/articles/a-guide-to-displayport-2-1-and-previously-2-0-certifications-standards-cables-and-areas-of-confusion-and-concern

@@ -1,0 +1,8 @@
+- https://investor.vanguard.com/investment-products/etfs/profile/vym
+- https://www.lbc.co.uk/news/teenage-actor-jack-veal-starred-tom-hiddleston-loki-homeless/
+- https://www.opensourceforu.com/2024/12/analysing-linus-torvalds-critique-of-docker/
+- https://www.theregister.com/AMP/2024/12/03/sailpoint_identityiq_vulnerability/
+- https://www.wired.com/story/big-interview-meredith-whittaker-signal-2024/
+- https://restofworld.org/2023/signal-president-meredith-whittaker-messaing-privacy/
+- https://www.phoronix.com/news/Mesa-25.0-AMDGPU-User-Queue
+- https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html

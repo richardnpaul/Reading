@@ -1,10 +1,10 @@
-https://medium.com/@joshiarpit2/a-homelab-enthusiasts-guide-setting-up-ddns-on-pfsense-using-cloudflare-c1f2e2522cac
-https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial
-https://github.com/mviereck/x11docker/wiki/How-to-provide-Wayland-socket-to-docker-container
-https://medium.com/@priyamsanodiya340/running-gui-applications-in-docker-containers-a-step-by-step-guide-335b54472e4b
-https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/
-https://blueprint.interviewpen.com/p/cut-docker-image-size
-https://www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/
-https://www.govinfosecurity.com/russian-hackers-target-mozilla-windows-in-new-exploit-chain-a-26916
-https://arstechnica.com/gadgets/2024/11/qnap-firmware-update-leaves-nas-owners-locked-out-of-their-boxes/
-https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/
+- https://medium.com/@joshiarpit2/a-homelab-enthusiasts-guide-setting-up-ddns-on-pfsense-using-cloudflare-c1f2e2522cac
+- https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial
+- https://github.com/mviereck/x11docker/wiki/How-to-provide-Wayland-socket-to-docker-container
+- https://medium.com/@priyamsanodiya340/running-gui-applications-in-docker-containers-a-step-by-step-guide-335b54472e4b
+- https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/
+- https://blueprint.interviewpen.com/p/cut-docker-image-size
+- https://www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/
+- https://www.govinfosecurity.com/russian-hackers-target-mozilla-windows-in-new-exploit-chain-a-26916
+- https://arstechnica.com/gadgets/2024/11/qnap-firmware-update-leaves-nas-owners-locked-out-of-their-boxes/
+- https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/

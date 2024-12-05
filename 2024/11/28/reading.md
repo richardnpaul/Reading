@@ -1,4 +1,4 @@
-h- ttps://thenewstack.io/introduction-to-localstack-a-drop-in-replacement-for-aws/
+- https://thenewstack.io/introduction-to-localstack-a-drop-in-replacement-for-aws/
 - https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/
 - https://www.xda-developers.com/minisforum-v3-review/
 - https://xen-orchestra.com/blog/announcing-project-pyrgos/
