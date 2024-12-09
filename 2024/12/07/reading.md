@@ -1,0 +1,12 @@
+- https://www.theregister.com/AMP/2024/12/04/lawsuit_microsoft_windows/
+- https://itnext.io/kubernetes-configuration-linting-tools-699ddeedaeec?gi=7979bfa61769
+- https://videocardz.com/newz/amd-confirms-radeon-rx-8600-and-rx-8800-rdna4-gpu-series
+- https://www.bleepingcomputer.com/news/security/cloudflares-developer-domains-increasingly-abused-by-threat-actors/amp/
+- https://www.neowin.net/amp/linus-torvalds-amd-intels-x86-levels-are-completely-broken-garbage-that-needs-to-die/
+- https://www.bleepingcomputer.com/news/security/new-android-spyware-found-on-phone-seized-by-russian-fsb/amp/
+- https://www.xda-developers.com/i-tried-building-a-home-lab-with-harvester/
+- https://dota2.fandom.com/wiki/Mage_Slayer
+- https://www.discoverwildlife.com/animal-facts/marine-animals/roughskin-shark-caribbean-sea
+- https://www.unilad.com/technology/news/couple-saves-money-energy-bills-after-buying-teslas-695263-20241207
+- https://news.sky.com/story/amp/russias-hybrid-attack-on-romanian-election-could-trigger-nato-response-if-proven-13268126
+- https://www.forbes.com/sites/daveywinder/2024/12/07/gmail-users-get-999-protection-from-impersonation-attacks-heres-how/

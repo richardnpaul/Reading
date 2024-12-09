@@ -1,0 +1,8 @@
+- https://wccftech.com/intels-race-for-ceo-succession-begins-names-such-as-tsmcs-former-ceo-mark-liu-ex-amd-victor-peng-starts-popping-up/amp/
+- https://arstechnica.com/tech-policy/2024/12/us-recommends-encrypted-messaging-as-chinese-hackers-linger-in-telecom-networks/
+- https://arstechnica.com/space/2024/12/esa-workers-face-a-maze-of-non-compete-clauses-and-service-contracts/
+- https://www.bleepingcomputer.com/news/security/bt-conferencing-division-took-servers-offline-after-black-basta-ransomware-attack/
+- https://www.phoronix.com/review/blender-43-nvidia-amd
+- https://videocardz.com/newz/intel-confirms-xe3-architecture-is-baked-hardware-team-already-working-on-successor
+- https://www.pcgamer.com/games/fps/a-valve-engineer-fixed-3d-lighting-so-hard-he-had-to-tell-all-the-graphics-card-manufacturers-their-math-was-wrong-and-the-reaction-was-i-hate-you/
+- https://www.nasa.gov/missions/artemis/nasa-identifies-cause-of-artemis-i-orion-heat-shield-char-loss/

@@ -1,0 +1,7 @@
+- https://www.forbes.com/sites/daveywinder/2024/12/05/gmail-takeover-hack-attack-google-warns-you-have-just-7-days-to-act/
+- https://www.ispreview.co.uk/index.php/2024/12/openreach-website-app-cuts-missed-uk-engineer-appointments-by-30-percent.html
+- https://www.notebookcheck.net/Introducing-Banan-OS-An-all-new-OS-written-from-scratch-in-C.928628.0.html
+- https://arstechnica.com/gadgets/2024/12/firefox-users-on-macos-can-finally-autofill-apple-passwords-in-their-browser/
+- https://www.pcgamer.com/hardware/graphics-cards/if-the-rumour-that-amds-rdna-4-gpu-is-45-percent-faster-in-ray-tracing-than-a-7900-xtx-and-on-par-with-an-rtx-4080-super-in-raster-is-true-im-buying-six-of-em/
+- https://www.theregister.com/2024/12/06/birmingham_erp_budget/
+- https://www.independent.co.uk/climate-change/arctic-sea-ice-melt-climate-change-b2657621.html
