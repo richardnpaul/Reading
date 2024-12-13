@@ -1,0 +1,17 @@
+- https://blog.cloudflare.com/ai-audit-enforcing-robots-txt/
+- https://cointelegraph.com/news/quantum-computing-satoshi-bitcoin-vulnerability
+- https://www.phoronix.com/review/linux-opencl-eoy2024
+- https://www.theregister.com/AMP/2024/12/10/microsoft_patch_tuesday/
+- https://www.gamingonlinux.com/2024/12/proton-experimental-adds-initial-speech-synthesis-support-lots-of-game-fixes-for-steam-deck-linux/
+- https://www.space.com/space-exploration/launches-spacecraft/rocket-labs-secretive-launch-last-month-was-a-hypersonic-test-for-the-us-military-photos
+- https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust
+- https://uk.pcmag.com/vpn/155849/russia-tests-cutting-off-access-to-global-web-and-vpns-cant-get-around-it
+- https://www.zdnet.com/article/system76-just-took-everything-that-was-good-in-pop-os-and-made-it-even-better/
+- https://www.omgubuntu.co.uk/2024/12/tiling-shell-extension-border-radius/amp
+- https://docs.harvesterhci.io/v1.4/install/harvester-configuration/
+- https://arstechnica.com/staff/2024/12/meet-hyperlight-ars-technicas-new-even-brighter-light-mode/
+- https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/
+- https://www.bleepingcomputer.com/news/microsoft/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/
+- https://www.bleepingcomputer.com/news/security/romanian-energy-supplier-electrica-hit-by-ransomware-attack/
+- https://www.theregister.com/AMP/2024/12/09/opinion_column_gelsinger_intel_departure/
+- https://www.phoronix.com/news/AMD-Standard-C-Code-GPUs

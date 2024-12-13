@@ -1,0 +1,9 @@
+- https://www.theregister.com/AMP/2024/12/03/ncsc_annual_review/
+- https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/
+- https://wccftech.com/amd-ryzen-ai-max-pro-395-strix-halo-apu-16-cores-radeon-8060s-rdna-3-5-igpu-leak/amp/
+- https://www.phoronix.com/news/Optimize-Linux-MD-Bitmap-RFC
+- https://www.phoronix.com/news/Optimize-Linux-MD-Bitmap-RFC
+- https://hackaday.com/2024/12/09/smartphone-runs-home-server/
+- https://www.phoronix.com/review/amd-epyc-ai-ml-tuning
+- https://www.theregister.com/AMP/2024/12/10/ai_slop_bug_reports/
+- https://www.riazor.org/news/warp-drive-faster-than-light-engine/2685/

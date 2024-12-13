@@ -1,0 +1,15 @@
+- https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/
+- https://arstechnica.com/tech-policy/2024/12/tiktoks-two-paths-to-avoid-divestiture-beg-scotus-or-woo-trump/
+- https://arstechnica.com/tech-policy/2024/12/tiktok-asks-court-to-block-ban-ahead-of-scotus-appeal/
+- https://www.bleepingcomputer.com/news/microsoft/outdated-google-workspace-sync-blocks-windows-11-24h2-upgrades/
+- https://arstechnica.com/science/2024/12/google-gets-an-error-corrected-quantum-bit-to-be-stable-for-an-hour/
+- https://www.club386.com/a-second-amd-radeon-rx-7000-gpu-finally-appears-in-steam-hardware-survey/
+- https://www.howtogeek.com/man-pages-too-complex-try-tldr/
+- https://www.unilad.com/technology/space-x/elon-musk-2003-video-spacex-plans-375275-20241208
+- https://arstechnica.com/science/2024/12/supermassive-black-hole-binary-emits-unexpected-flares/
+- https://www.raspberrypi.com/news/raspberry-pi-500-and-raspberry-pi-monitor-on-sale-now/
+- https://wccftech.com/microsft-surface-laptop-with-snapdragon-x-elite-is-just-under-1000-on-amazon/amp/
+- https://www.netweather.tv/weather-forecasts/uk/xmas
+- https://www.reddit.com/r/DotA2/comments/12uy976/summary_of_new_key_objective_timings_for_733/
+- https://docs.harvesterhci.io/v1.3/getting-started/deploy-ha-cluster/
+- https://docs.harvesterhci.io/v1.4/
