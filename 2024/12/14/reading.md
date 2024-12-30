@@ -1,0 +1,9 @@
+- https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/#comments
+- https://www.servethehome.com/marvell-nabs-a-big-multi-year-multi-product-win-at-aws/
+- https://www.phoronix.com/news/Manjaro-24.2-Released
+- https://amp.theguardian.com/world/2024/dec/08/bashar-al-assad-reported-to-have-fled-syria-as-rebels-say-they-have-captured-damascus
+- https://news.sky.com/story/amp/syrias-president-bashar-al-assad-is-in-moscow-and-has-been-granted-asylum-confirms-russian-state-media-13269955
+- https://arstechnica.com/gadgets/2024/12/raspberry-pi-500-updates-sub-100-desktop-pc-with-more-speed-optional-monitor/
+- https://arstechnica.com/information-technology/2024/12/google-goes-agentic-with-gemini-2-0s-ambitious-ai-agent-features/
+- https://www.theregister.com/AMP/2024/12/12/china_rocket_long_march_8a_broadband/
+- https://arstechnica.com/security/2024/12/thousands-of-sites-remain-unpatched-against-actively-exploited-wordpress-plugin-bug/

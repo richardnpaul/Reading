@@ -1,0 +1,3 @@
+- https://www.howtogeek.com/what-is-ddr5-memory-training/
+- https://www.tomshardware.com/video-games/pc-gaming/valve-preps-mysterious-fremont-steamos-device-powered-by-amd-ryzen-processor-potential-steam-box-may-sport-a-hawk-point-cpu-with-zen-4-and-rdna-3-graphics
+- https://videocardz.com/newz/geforce-rtx-5070-ti-reportedly-features-16gb-gddr7-memory-and-gb203-300-gpu

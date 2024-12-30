@@ -1,0 +1,3 @@
+- https://www.xda-developers.com/i-tried-building-a-proxmox-home-lab-inside-windows-11/
+- https://www.trustedreviews.com/deals/no-ones-noticed-just-how-cheap-the-ticwatch-pro-5-is-right-now-4579124
+- https://news.sky.com/story/amp/costing-40bn-a-year-until-2030-labour-has-decided-its-colossal-net-zero-plan-is-worth-the-risk-13272495
